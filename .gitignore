@@ -28,3 +28,8 @@ output/
 # OS
 .DS_Store
 Thumbs.db
+
+# Metabase
+metabase/
+metabase.db.*
+plugins/
